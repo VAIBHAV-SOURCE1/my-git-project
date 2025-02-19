@@ -2,6 +2,6 @@ this my first version of temp.txt
 
 
 
-this is the new change in feature branch
 
-this is the main branch update
+
+this is the conflict branch update
